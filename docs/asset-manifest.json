@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1247dde6.chunk.css",
+    "main.js": "./static/js/main.d70b802a.chunk.js",
+    "main.js.map": "./static/js/main.d70b802a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4d21bd2b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4d21bd2b.js.map",
+    "static/js/2.dc48fa19.chunk.js": "./static/js/2.dc48fa19.chunk.js",
+    "static/js/2.dc48fa19.chunk.js.map": "./static/js/2.dc48fa19.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.bffcfb13763baebb218c2eaee11e0ffe.js": "./precache-manifest.bffcfb13763baebb218c2eaee11e0ffe.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.1247dde6.chunk.css.map": "./static/css/main.1247dde6.chunk.css.map",
+    "static/js/2.dc48fa19.chunk.js.LICENSE.txt": "./static/js/2.dc48fa19.chunk.js.LICENSE.txt",
+    "static/media/alarm-cut.mp3": "./static/media/alarm-cut.7c67c0bf.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d21bd2b.js",
+    "static/js/2.dc48fa19.chunk.js",
+    "static/css/main.1247dde6.chunk.css",
+    "static/js/main.d70b802a.chunk.js"
+  ]
+}
